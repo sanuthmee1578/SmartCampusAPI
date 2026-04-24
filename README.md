@@ -248,7 +248,7 @@ You can test the API using:
 ---
 ---
 
-# 📄 Coursework Report – Questions & Answers
+# Coursework Report – Questions & Answers
 
 *(This section includes answers to all coursework questions as required in the specification)*
 
